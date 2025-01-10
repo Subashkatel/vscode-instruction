@@ -21,7 +21,7 @@ Install VS Code if you haven't already: `VS Code Download <https://code.visualst
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Install Remote-SSH plugin by searching for it in the extensions view.
 
-Extension Identifier: `` ms-vscode-remote.remote-ssh``
+Extension Identifier: ``ms-vscode-remote.remote-ssh``
 
 4. Configure SSH Connection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
